@@ -13,6 +13,6 @@
         }
     },
     "require": {
-        "unzerdev/php-sdk": "^1.1"
+        "unzerdev/php-sdk": "~1.1.0"
     }
 }
