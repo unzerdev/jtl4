@@ -1,0 +1,18 @@
+{
+    "name": "s360/s360_heidelpay_shop4",
+    "description": "Heidelpay Plugin für JTL Shop 4",
+    "authors": [
+        {
+            "name": "Pascal Kleindienst",
+            "email": "pascal.kleindienst@solution360.de"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Plugin\\s360_heidelpay_shop4\\": "src"
+        }
+    },
+    "require": {
+        "unzerdev/php-sdk": "~1.1.0"
+    }
+}

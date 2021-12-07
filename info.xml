@@ -49,6 +49,10 @@
             <CreateDate>2021-07-22</CreateDate>
         </Version>
 
+        <Version nr="111">
+            <CreateDate>2021-10-12</CreateDate>
+        </Version>
+
         <Hooks>
             <Hook id="75">handlePendingOrders.hook.75.php</Hook>
             <Hook id="140">frontend.hook.140.php</Hook>
