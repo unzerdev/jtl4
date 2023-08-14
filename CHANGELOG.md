@@ -3,6 +3,23 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
 
+## [1.14] (August 2023)
+### Added
+- add LICENSE and NOTICE
+
+## [1.13] (July 2022)
+### Added
+- Company info added to the customer object
+- Added check and notification if frontend URLs have changed due to JTL/plugin updates and how to correct them
+- Add VAT amount to shopping cart object
+
+### Changed
+- Unzer SDK version updated to 1.1.4.2
+
+### Fixed
+- Fixed problem with instalments sending wrong/temporary order numbers to Unzer
+- Fixed unhandled error when retrieving refunds in backend
+
 ## [1.12] (March 2022)
 ### Added
 - add minimum customer info (name and email) to all payments
@@ -28,6 +45,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
 ### Added
 - Initial Release
 
+[1.14]: https://github.com/unzerdev/jtl4/compare/1.13...1.14
+[1.13]: https://github.com/unzerdev/jtl4/compare/1.12...1.13
 [1.12]: https://github.com/unzerdev/jtl4/compare/1.11...1.12
 [1.11]: https://github.com/unzerdev/jtl4/compare/1.10...1.11
 [1.10]: https://github.com/unzerdev/jtl4/releases/tag/1.10
